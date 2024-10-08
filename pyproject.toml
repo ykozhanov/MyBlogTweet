@@ -1,0 +1,9 @@
+[tool.isort]
+profile = "black"
+
+[tool.mypy]
+plugins = ["sqlalchemy.ext.mypy.plugin"]
+explicit_package_bases = true
+ignore_missing_imports = true
+check_untyped_defs = true
+strict = true

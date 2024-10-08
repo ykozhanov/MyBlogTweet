@@ -1,0 +1,15 @@
+/.idea/
+db
+images
+venv
+app/__pycache__
+app/server/__pycache__
+app/server/routes/__pycache__
+app/server/schemas/__pycache__
+app/server/models/__pycache__
+app/server/database/__pycache__
+app/client/__pycache__
+app/tests/__pycache__
+alembic/__pycache__
+tests/__pycache__
+.env
