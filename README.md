@@ -42,7 +42,7 @@ git clone https://github.com/ykozhanov/TwitterClone.git
 ### Шаг 3: Docker-Compose
 - Перейдите в директорию с репозиторием:
 ```bash
-cd python python_advanced_diploma
+cd python TwitterClone
 ```
 - Создайте `.env` файл с переменными. Для примера используйте `env.example` из репозитория.
 - Для запуска выполните в терминале: 
