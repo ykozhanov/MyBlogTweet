@@ -36,7 +36,7 @@
 ### Шаг 2: Клонируйте репозиторий
 Клонируйте gitlab репозиторий на Ваше устройство:
 ```bash
-git clone https://gitlab.skillbox.ru/iurii_kozhanov/python_advanced_diploma.git
+git clone https://github.com/ykozhanov/TwitterClone.git
 ```
 
 ### Шаг 3: Docker-Compose
