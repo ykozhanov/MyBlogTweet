@@ -34,7 +34,7 @@
 - **docker-compose 2.29.2**
 
 ### Шаг 2: Клонируйте репозиторий
-Клонируйте gitlab репозиторий на Ваше устройство:
+Клонируйте github репозиторий на Ваше устройство:
 ```bash
 git clone https://github.com/ykozhanov/TwitterClone.git
 ```
