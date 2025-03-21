@@ -36,7 +36,7 @@
 ### Шаг 2: Клонируйте репозиторий
 Клонируйте github репозиторий на Ваше устройство:
 ```bash
-git clone https://github.com/ykozhanov/TwitterClone.git
+git clone https://github.com/ykozhanov/MyBlogTweet.git
 ```
 
 ### Шаг 3: Docker-Compose
